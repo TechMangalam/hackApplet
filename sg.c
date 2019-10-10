@@ -5,3 +5,4 @@ scanf("%d",&a);
 printf("%d",a);
 
 }
+//hdgcjhwdbckgwukc
